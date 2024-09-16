@@ -15,3 +15,4 @@ function checkDigitsInName(name) {
 const input = checkDigitsInName(["Raj"]);
 console.log(input);
 
+const name = "monir";
